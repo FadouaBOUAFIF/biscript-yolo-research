@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env python3
 """
 Setup Script for BiScript-YOLO Project
@@ -103,3 +104,6 @@ print("1. Run: python scripts/train.py")
 print("2. Run: python scripts/test.py") 
 print("3. Run: python models/biscript_model.py")
 print("4. Check structure: dir /S")
+=======
+
+>>>>>>> 37819aabe3b429bbf51200f675d9870452a70b48
