@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # models/biscript_model.py
 """
 BiScript-YOLO Model Implementation
@@ -61,6 +61,4 @@ def create_model():
 if __name__ == "__main__":
     model = create_model()
     print("BiScript-YOLO model created successfully!")
-=======
 
->>>>>>> 37819aabe3b429bbf51200f675d9870452a70b48
